@@ -14,4 +14,5 @@ Use below command to run the container
 
 docker run -d -p 8080:8080 --name mavenbuild mavenbuild
 
-# To test Pull Web hook
+# To test Pull Web hook 
+# added line to test git from ansible
